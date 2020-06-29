@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-session-b7438": {
+      "hosting": {
+        "angular-app": [
+          "angular-session-b7438"
+        ]
+      }
+    }
+  }
+}
